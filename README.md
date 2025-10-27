@@ -274,7 +274,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-If you have any questions or issues, please [open an issue](https://github.com/your-username/fast_crypto/issues) on GitHub.
+If you have any questions or issues, please [open an issue](https://github.com/shariaralphabyte/fast_crypto/issues) on GitHub.
 
 ---
 
