@@ -270,11 +270,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [x] RSA operations
 - [x] SHA-256/512 hashing
 - [x] File encryption
-- [ ] iOS support
-- [ ] macOS/Windows/Linux support
-- [ ] Web support (WASM)
-- [ ] ChaCha20-Poly1305 cipher
-- [ ] Ed25519 signatures
+
 
 ## 📞 Support
 
