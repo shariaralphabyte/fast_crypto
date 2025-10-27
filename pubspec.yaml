@@ -1,6 +1,6 @@
 name: fast_crypto
 description: High-performance Android encryption plugin with Rust backend. Supports AES-256-GCM, RSA, SHA-256/512, and file encryption.
-version: 0.2.0
+version: 0.3.0
 homepage: https://github.com/shariaralphabyte/fast_crypto
 repository: https://github.com/shariaralphabyte/fast_crypto
 
