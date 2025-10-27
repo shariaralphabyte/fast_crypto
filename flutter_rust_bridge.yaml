@@ -1,0 +1,11 @@
+rust_input: crate
+rust_root: rust/
+dart_output: lib/src/rust
+dart_format_line_length: 120
+llvm_path:
+  - /opt/homebrew/opt/llvm # Homebrew on Apple Silicon
+  - /usr/local/opt/llvm # Homebrew on Intel
+  - /usr/lib/llvm-15 # Ubuntu
+  - /usr/lib/llvm-14 # Ubuntu
+  - /usr/lib/llvm-13 # Ubuntu
+dart_enums_style: true

@@ -1,0 +1,28 @@
+[package]
+name = "fast_crypto"
+version = "1.0.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "staticlib"]
+
+[dependencies]
+flutter_rust_bridge = "=2.11.1"
+aes-gcm = "0.10"
+rsa = { version = "0.9", features = ["sha2"] }
+sha2 = "0.10"
+pbkdf2 = "0.12"
+rand = "0.8"
+base64 = "0.21"
+hex = "0.4"
+tokio = { version = "1.0", features = ["rt", "rt-multi-thread", "fs"] }
+anyhow = "1.0"
+serde = { version = "1.0", features = ["derive"] }
+
+[target.'cfg(target_os = "android")'.dependencies]
+jni = "0.21"
+
+[profile.release]
+lto = true
+codegen-units = 1
+panic = "abort"
