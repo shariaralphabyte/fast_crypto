@@ -30,8 +30,6 @@ topics:
   - security
   - rust
   - aes
-  - rsa
-  - sha256
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
