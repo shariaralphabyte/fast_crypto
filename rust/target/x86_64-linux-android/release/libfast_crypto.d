@@ -1,0 +1,1 @@
+/Users/360infotech/Desktop/fast_crypto/rust/target/x86_64-linux-android/release/libfast_crypto.a: /Users/360infotech/Desktop/fast_crypto/rust/src/crypto.rs /Users/360infotech/Desktop/fast_crypto/rust/src/error.rs /Users/360infotech/Desktop/fast_crypto/rust/src/frb_generated.rs /Users/360infotech/Desktop/fast_crypto/rust/src/lib.rs
